@@ -6,7 +6,7 @@
 
     <groupId>com.rudolfschmidt</groupId>
     <artifactId>javase8-assembly-archetype</artifactId>
-    <version>1.0.0</version>
+    <version>1.0</version>
 
     <name>com.rudolfschmidt:javase8-assembly-archetype</name>
     <description>Archetype for JavaSE 8 with assembly configuration</description>
