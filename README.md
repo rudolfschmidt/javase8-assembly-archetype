@@ -1,6 +1,6 @@
 # javase8-assembly-archetype
 
-This maven archetype generates a javase8 project with basic configuration for creating a jar file that contains all dependencies and is executable.
+This maven archetype generates a javase8 project with basic configuration for creating a jar file that contains all dependencies and its executable.
 
 ## Usage
 ```bash
